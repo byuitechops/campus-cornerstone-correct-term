@@ -1,0 +1,24 @@
+{
+  "name": "campus-cornerstone-correct-term",
+  "version": "1.0.0",
+  "description": "Change all Campus REL Cornerstone courses from default term to correct term",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/campus-cornerstone-correct-term.git"
+  },
+  "author": "Seth Bolander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuitechops/campus-cornerstone-correct-term/issues"
+  },
+  "homepage": "https://github.com/byuitechops/campus-cornerstone-correct-term#readme",
+  "dependencies": {
+    "canvas-api-wrapper": "^3.3.5",
+    "inquirer": "^6.3.1",
+    "p-map": "^2.1.0"
+  }
+}
