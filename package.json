@@ -18,7 +18,11 @@
   "homepage": "https://github.com/byuitechops/campus-cornerstone-correct-term#readme",
   "dependencies": {
     "canvas-api-wrapper": "^3.3.5",
+    "chalk": "^2.4.2",
+    "d3-dsv": "^1.1.1",
+    "fs": "0.0.1-security",
     "inquirer": "^6.3.1",
-    "p-map": "^2.1.0"
+    "p-map": "^2.1.0",
+    "path": "^0.12.7"
   }
 }
